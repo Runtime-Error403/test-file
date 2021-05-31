@@ -15,6 +15,7 @@ public class Histo
         System.out.print(j+" : ");
         for(int i=0; i<j;i++)
         System.out.print("*");
+	System.out.print("end program");
     }
 
 }
